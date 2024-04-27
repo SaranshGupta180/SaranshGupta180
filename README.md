@@ -1,2 +1,2 @@
-![Video Title]([https://github.com/SaranshGupta180/SaranshGupta180/blob/main/SaranshGupta.mp4](https://www.canva.com/design/DAGDmtO3Xsc/FB_QWcafjKmNMUk_mMasRw/edit?utm_content=DAGDmtO3Xsc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Video Title](https://www.canva.com/design/DAGDmtO3Xsc/FB_QWcafjKmNMUk_mMasRw/edit?utm_content=DAGDmtO3Xsc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Welcome to my GitHub profile! I'm Saransh Gupta, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
